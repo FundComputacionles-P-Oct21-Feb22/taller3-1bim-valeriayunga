@@ -1,0 +1,4 @@
+Ejercicio1
+
+Se necesita representar un dominio de datos de tipo cadena, que permita representar solo las letras minúsculas. El número de caracteres posibles es 10.
+x(10)[{a-z}]

@@ -1,0 +1,11 @@
+Algoritmo-7
+Generar un algoritmo que permita calcular y mostrar el valor a cancelar de una planilla de luz. Se debe ingresar el valor de costo por kilovatio / hora y el número de kilovatios consumidos en el mes. Si el usuario tiene edad mayor a 65 años, se debe descontrar el 10%.
+
+1.Inicio
+2.Se pide ingresar el valor de costo por kilovatio/hora
+3.Se pide ingresar el número de kilovatios consumidos en el mes
+4.Se pide ingresar la edad del usuario
+5.Se calcula el valor de la plantilla de luz multiplicando el valor de costo por kilovatio/hora por el número de kilovatios consumidos en el mes
+6.Si el usuario es menor de los 65 años, entonces se muestra en la pantalla el valor a cancelar de la pantalla de luz.
+7.Si el usuario es mayor a los 65 años, entonces se debe descontar el 10% de valor anterior de la plantilla de luz, y mostrar en pantalla el valor total de la plantilla de luz a pagar. 
+8.Fin

@@ -1,0 +1,3 @@
+Ejercicio2
+Una cadena que permite las letras minúsculas que sean vocales cerradas y los dígitos mayores a 1 y menores a 7.
+x(n)[{i,u},{1-7}]
